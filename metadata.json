@@ -1,0 +1,6 @@
+{
+  "name": "TOÁN HỌC TƯƠNG TÁC _ PHẠM HẬU",
+  "description": "TOÁN HỌC TƯƠNG TÁC _ PHẠM HẬU - Nền tảng hình học không gian 3D, tạo mặt tròn xoay từ đường sinh và trục, tách thiết diện, hình phẳng 2D, đồ thị tham số m, bảng biến thiên và bảng trắng toán học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
